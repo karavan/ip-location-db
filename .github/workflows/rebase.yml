@@ -2,7 +2,7 @@ name: delete all histories by rebase
 
 on:
   schedule:
-    - cron: '32 6 * * 1'
+    - cron: '32 6 12,27 * *'
 
 jobs:
   release:
@@ -11,7 +11,7 @@ jobs:
     timeout-minutes: 60
     steps:
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: rebase
         shell: bash
         run: |
