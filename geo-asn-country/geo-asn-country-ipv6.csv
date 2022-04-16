@@ -9105,7 +9105,7 @@
 2001:43f8:1380::,2001:43f8:1380:ffff:ffff:ffff:ffff:ffff,SO
 2001:43f8:1390::,2001:43f8:1390:ffff:ffff:ffff:ffff:ffff,TZ
 2001:43f8:13a0::,2001:43f8:13a0:ffff:ffff:ffff:ffff:ffff,MW
-2001:43f8:13b0::,2001:43f8:13b0:ffff:ffff:ffff:ffff:ffff,ZA
+2001:43f8:13b0::,2001:43f8:13b1:ffff:ffff:ffff:ffff:ffff,ZA
 2001:43f8:13c0::,2001:43f8:13c0:ffff:ffff:ffff:ffff:ffff,NG
 2001:43f8:13d0::,2001:43f8:13d0:ffff:ffff:ffff:ffff:ffff,GH
 2001:43f8:13e0::,2001:43f8:13e0:ffff:ffff:ffff:ffff:ffff,MW
@@ -17239,6 +17239,9 @@
 2602:80f:3000::,2602:80f:30ff:ffff:ffff:ffff:ffff:ffff,US
 2602:80f:4000::,2602:80f:40ff:ffff:ffff:ffff:ffff:ffff,US
 2602:80f:5000::,2602:80f:500f:ffff:ffff:ffff:ffff:ffff,US
+2602:fb86::,2602:fb86:fff:ffff:ffff:ffff:ffff:ffff,CA
+2602:fb87::,2602:fb87:ff:ffff:ffff:ffff:ffff:ffff,US
+2602:fb88::,2602:fb88:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:fb89::,2602:fb89:fff:ffff:ffff:ffff:ffff:ffff,US
 2602:fb8a::,2602:fb8a:ff:ffff:ffff:ffff:ffff:ffff,US
 2602:fb8b::,2602:fb8b:ff:ffff:ffff:ffff:ffff:ffff,US
