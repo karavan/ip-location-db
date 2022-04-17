@@ -4965,6 +4965,7 @@
 2001:df0:a600::,2001:df0:a600:ffff:ffff:ffff:ffff:ffff,AU
 2001:df0:a640::,2001:df0:a640:ffff:ffff:ffff:ffff:ffff,HK
 2001:df0:a680::,2001:df0:a680:ffff:ffff:ffff:ffff:ffff,ID
+2001:df0:a6c0::,2001:df0:a6c0:ffff:ffff:ffff:ffff:ffff,PK
 2001:df0:a700::,2001:df0:a700:ffff:ffff:ffff:ffff:ffff,IN
 2001:df0:a780::,2001:df0:a780:ffff:ffff:ffff:ffff:ffff,VN
 2001:df0:a800::,2001:df0:a800:ffff:ffff:ffff:ffff:ffff,AU
@@ -9099,7 +9100,7 @@
 2001:43f8:1380::,2001:43f8:1380:ffff:ffff:ffff:ffff:ffff,SO
 2001:43f8:1390::,2001:43f8:1390:ffff:ffff:ffff:ffff:ffff,TZ
 2001:43f8:13a0::,2001:43f8:13a0:ffff:ffff:ffff:ffff:ffff,MW
-2001:43f8:13b0::,2001:43f8:13b1:ffff:ffff:ffff:ffff:ffff,ZA
+2001:43f8:13b0::,2001:43f8:13b0:ffff:ffff:ffff:ffff:ffff,ZA
 2001:43f8:13c0::,2001:43f8:13c0:ffff:ffff:ffff:ffff:ffff,NG
 2001:43f8:13d0::,2001:43f8:13d0:ffff:ffff:ffff:ffff:ffff,GH
 2001:43f8:13e0::,2001:43f8:13e0:ffff:ffff:ffff:ffff:ffff,MW
