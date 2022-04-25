@@ -5002,7 +5002,9 @@
 2001:df0:ac80::,2001:df0:ac80:ffff:ffff:ffff:ffff:ffff,NP
 2001:df0:acc0::,2001:df0:acc0:ffff:ffff:ffff:ffff:ffff,IN
 2001:df0:ad00::,2001:df0:ad00:ffff:ffff:ffff:ffff:ffff,AU
+2001:df0:ad40::,2001:df0:ad40:ffff:ffff:ffff:ffff:ffff,VN
 2001:df0:ad80::,2001:df0:ad80:ffff:ffff:ffff:ffff:ffff,ID
+2001:df0:adc0::,2001:df0:adc0:ffff:ffff:ffff:ffff:ffff,VN
 2001:df0:ae80::,2001:df0:ae80:ffff:ffff:ffff:ffff:ffff,AU
 2001:df0:af00::,2001:df0:af00:ffff:ffff:ffff:ffff:ffff,ID
 2001:df0:af80::,2001:df0:af80:ffff:ffff:ffff:ffff:ffff,BD
@@ -5018,7 +5020,6 @@
 2001:df0:b480::,2001:df0:b480:ffff:ffff:ffff:ffff:ffff,BD
 2001:df0:b500::,2001:df0:b501:ffff:ffff:ffff:ffff:ffff,HK
 2001:df0:b580::,2001:df0:b580:ffff:ffff:ffff:ffff:ffff,ID
-2001:df0:b600::,2001:df0:b600:ffff:ffff:ffff:ffff:ffff,BD
 2001:df0:b680::,2001:df0:b680:ffff:ffff:ffff:ffff:ffff,AU
 2001:df0:b700::,2001:df0:b700:ffff:ffff:ffff:ffff:ffff,HK
 2001:df0:b780::,2001:df0:b780:ffff:ffff:ffff:ffff:ffff,BD
@@ -9965,7 +9966,9 @@
 2400:7340::,2400:7340:ffff:ffff:ffff:ffff:ffff:ffff,CN
 2400:7360::,2400:7360:ffff:ffff:ffff:ffff:ffff:ffff,PK
 2400:7380::,2400:7380:ffff:ffff:ffff:ffff:ffff:ffff,NZ
+2400:73a0::,2400:73a0:ffff:ffff:ffff:ffff:ffff:ffff,ID
 2400:73c0::,2400:73c0:ffff:ffff:ffff:ffff:ffff:ffff,CN
+2400:73e0::,2400:73e0:ffff:ffff:ffff:ffff:ffff:ffff,CN
 2400:7400::,2400:7400:ffff:ffff:ffff:ffff:ffff:ffff,MY
 2400:7440::,2400:7440:ffff:ffff:ffff:ffff:ffff:ffff,CN
 2400:7480::,2400:7480:ffff:ffff:ffff:ffff:ffff:ffff,MN
